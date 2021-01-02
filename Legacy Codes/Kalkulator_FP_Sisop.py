@@ -7,7 +7,7 @@ hasil = 0.
 i = 0
 
 os.system('clear')	# clear
-# start perulangan ke-1
+# start perulangan while ke-1
 while(True):
 	print(" ______________________________")
 	print("|                              |")
